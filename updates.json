@@ -1,0 +1,73 @@
+{
+  "lastUpdated": "2024-07-16T10:00:00Z",
+  "version": "1.0.0",
+  "updates": [
+    {
+      "id": "1",
+      "type": "feature",
+      "title": "Initial Release",
+      "description": "Replix Loader v1.0 released with KeyAuth integration, product access, and security features.",
+      "date": "2024-07-01",
+      "products": ["FiveM External", "FiveM Executor"],
+      "tags": ["KeyAuth", "Security", "New"],
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "type": "improvement",
+      "title": "UI Enhancements",
+      "description": "Improved notification system, added announcements page, and fixed progress bar width.",
+      "date": "2024-07-02",
+      "products": ["FiveM Executor"],
+      "tags": ["UI", "UX", "Fixed"],
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "type": "feature",
+      "title": "FiveM External Updates",
+      "description": "Added new external features and improved compatibility with latest FiveM versions.",
+      "date": "2024-07-03",
+      "products": ["FiveM External"],
+      "tags": ["External", "Compatibility", "New"],
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "type": "bugfix",
+      "title": "Profile Data Fix",
+      "description": "Fixed profile tab not showing correct user information and date formatting issues.",
+      "date": "2024-07-16",
+      "products": ["FiveM External", "FiveM Executor"],
+      "tags": ["Bugfix", "Profile", "Fixed"],
+      "priority": "high"
+    },
+    {
+      "id": "5",
+      "type": "feature",
+      "title": "Dynamic Updates System",
+      "description": "Implemented dynamic updates system that fetches announcements from GitHub raw URL for easy management.",
+      "date": "2024-07-16",
+      "products": ["FiveM External", "FiveM Executor"],
+      "tags": ["Feature", "Updates", "Dynamic"],
+      "priority": "medium"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "All",
+      "description": "Show all updates"
+    },
+    {
+      "id": "FiveM External",
+      "name": "FiveM External",
+      "description": "Updates for FiveM External"
+    },
+    {
+      "id": "FiveM Executor",
+      "name": "FiveM Executor",
+      "description": "Updates for FiveM Executor"
+    }
+  ]
+} 
