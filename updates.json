@@ -46,9 +46,9 @@
       "id": "5",
       "type": "feature",
       "title": "Noclip + Fly Mode",
-      "description": "Enabled noclip and fly mode with speed adjustment and collision bypass.",
+      "description": "Enabled noclip and with speed adjustment and collision bypass.",
       "date": "2025-07-12",
-      "products": ["FiveM External", "FiveM Executor"],
+      "products": ["FiveM External"],
       "tags": ["Movement", "Noclip", "Fly"],
       "priority": "low"
     },
@@ -91,16 +91,6 @@
       "products": ["FiveM External"],
       "tags": ["AntiAdmin", "Alerts", "Detection"],
       "priority": "low"
-    },
-    {
-      "id": "10",
-      "type": "feature",
-      "title": "Skin & Weapon Spawner",
-      "description": "Built-in spawner for ped skins and all weapons with filter and favorites.",
-      "date": "2025-07-28",
-      "products": ["FiveM Executor"],
-      "tags": ["Spawner", "Fun", "Weapons"],
-      "priority": "low"
     }
   ],
   "filters": [
@@ -121,3 +111,4 @@
     }
   ]
 }
+
