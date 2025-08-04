@@ -1,56 +1,106 @@
 {
-  "lastUpdated": "2024-07-16T10:00:00Z",
-  "version": "1.0.0",
+  "lastUpdated": "2025-08-04T12:00:00Z",
+  "version": "1.0.4",
   "updates": [
     {
       "id": "1",
       "type": "feature",
-      "title": "Initial Release",
-      "description": "Replix Loader v1.0 released with KeyAuth integration, product access, and security features.",
-      "date": "2024-07-01",
+      "title": "Initial Loader Release",
+      "description": "Released Replix Loader v1.0 with basic authentication, product injection, and basic FiveM compatibility.",
+      "date": "2025-07-01",
       "products": ["FiveM External", "FiveM Executor"],
-      "tags": ["KeyAuth", "Security", "New"],
-      "priority": "high"
+      "tags": ["Loader", "KeyAuth", "Init"],
+      "priority": "low"
     },
     {
       "id": "2",
-      "type": "improvement",
-      "title": "UI Enhancements",
-      "description": "Improved notification system, added announcements page, and fixed progress bar width.",
-      "date": "2024-07-02",
-      "products": ["FiveM Executor"],
-      "tags": ["UI", "UX", "Fixed"],
-      "priority": "medium"
+      "type": "feature",
+      "title": "Visual ESP Added",
+      "description": "Added player ESP with box, skeleton, name, health bar, and distance display.",
+      "date": "2025-07-05",
+      "products": ["FiveM External"],
+      "tags": ["ESP", "Visuals", "Overlay"],
+      "priority": "low"
     },
     {
       "id": "3",
       "type": "feature",
-      "title": "FiveM External Updates",
-      "description": "Added new external features and improved compatibility with latest FiveM versions.",
-      "date": "2024-07-03",
+      "title": "Aimbot v1 Implemented",
+      "description": "Introduced basic aimbot with FOV circle, toggle hotkey, and target prioritization (head/nearest).",
+      "date": "2025-07-07",
       "products": ["FiveM External"],
-      "tags": ["External", "Compatibility", "New"],
-      "priority": "high"
+      "tags": ["Aimbot", "Combat", "Feature"],
+      "priority": "low"
     },
     {
       "id": "4",
-      "type": "bugfix",
-      "title": "Profile Data Fix",
-      "description": "Fixed profile tab not showing correct user information and date formatting issues.",
-      "date": "2024-07-16",
-      "products": ["FiveM External", "FiveM Executor"],
-      "tags": ["Bugfix", "Profile", "Fixed"],
-      "priority": "high"
+      "type": "feature",
+      "title": "Silent Aim Beta",
+      "description": "Implemented silent aim with prediction and smoothness options (may desync on high ping).",
+      "date": "2025-07-10",
+      "products": ["FiveM External"],
+      "tags": ["SilentAim", "Combat", "Experimental"],
+      "priority": "low"
     },
     {
       "id": "5",
       "type": "feature",
-      "title": "Dynamic Updates System",
-      "description": "Implemented dynamic updates system that fetches announcements from GitHub raw URL for easy management.",
-      "date": "2024-07-16",
+      "title": "Noclip + Fly Mode",
+      "description": "Enabled noclip and fly mode with speed adjustment and collision bypass.",
+      "date": "2025-07-12",
       "products": ["FiveM External", "FiveM Executor"],
-      "tags": ["Feature", "Updates", "Dynamic"],
-      "priority": "medium"
+      "tags": ["Movement", "Noclip", "Fly"],
+      "priority": "low"
+    },
+    {
+      "id": "6",
+      "type": "feature",
+      "title": "Vehicle Enhancements",
+      "description": "Added car fly, infinite nitro, and godmode for vehicles.",
+      "date": "2025-07-14",
+      "products": ["FiveM External"],
+      "tags": ["Vehicle", "Godmode", "Fun"],
+      "priority": "low"
+    },
+    {
+      "id": "7",
+      "type": "feature",
+      "title": "Triggerbot & Custom Hotkeys",
+      "description": "Triggerbot feature with configurable delay. Added full keybind customization.",
+      "date": "2025-07-18",
+      "products": ["FiveM External"],
+      "tags": ["Triggerbot", "Customization", "Hotkeys"],
+      "priority": "low"
+    },
+    {
+      "id": "8",
+      "type": "improvement",
+      "title": "Overlay Optimization",
+      "description": "Improved ESP rendering for lower-end systems. Fixed flickering on some GPUs.",
+      "date": "2025-07-22",
+      "products": ["FiveM External"],
+      "tags": ["ESP", "Optimization", "Fix"],
+      "priority": "low"
+    },
+    {
+      "id": "9",
+      "type": "feature",
+      "title": "Spectator & Admin Detection",
+      "description": "Added admin check (invisible/ghost) and basic spectator detection alerts.",
+      "date": "2025-07-25",
+      "products": ["FiveM External"],
+      "tags": ["AntiAdmin", "Alerts", "Detection"],
+      "priority": "low"
+    },
+    {
+      "id": "10",
+      "type": "feature",
+      "title": "Skin & Weapon Spawner",
+      "description": "Built-in spawner for ped skins and all weapons with filter and favorites.",
+      "date": "2025-07-28",
+      "products": ["FiveM Executor"],
+      "tags": ["Spawner", "Fun", "Weapons"],
+      "priority": "low"
     }
   ],
   "filters": [
@@ -70,4 +120,4 @@
       "description": "Updates for FiveM Executor"
     }
   ]
-} 
+}
