@@ -8,9 +8,9 @@
       "icon": "fas fa-car",
       "status": "Undetected",
       "version": "v3.1.5",
-      "lastUpdate": "16/07/2025",
-      "description": "External enhancement suite for FiveM roleplay servers with advanced vehicle and player tracking.",
-      "features": ["ESP", "Vehicle Spawn", "Player Tracker", "Teleport"],
+      "lastUpdate": "04/08/2025",
+      "description": "Advanced external toolkit for FiveM roleplay servers featuring real-time player and vehicle tracking.",
+      "features": ["ESP Overlay", "Spawn Vehicles", "Track Players", "Instant Teleportation"],
       "requiredLevel": 1,
       "subscriptionName": "Fivem External"
     },
@@ -25,30 +25,7 @@
       "features": ["Script Injection", "Lua Executor", "Bypass Protection", "Auto-Update"],
       "requiredLevel": 2,
       "subscriptionName": "Fivem Executor"
-    },
-    {
-      "id": 3,
-      "name": "GTA V External",
-      "icon": "fas fa-gamepad",
-      "status": "Undetected",
-      "version": "v2.1.3",
-      "lastUpdate": "15/07/2025",
-      "description": "External cheat for Grand Theft Auto V with advanced features and protection.",
-      "features": ["Aimbot", "ESP", "God Mode", "Money Hack"],
-      "requiredLevel": 2,
-      "subscriptionName": "GTA V External"
-    },
-    {
-      "id": 4,
-      "name": "Valorant External",
-      "icon": "fas fa-crosshairs",
-      "status": "Undetected",
-      "version": "v1.8.2",
-      "lastUpdate": "14/07/2025",
-      "description": "External cheat for Valorant with advanced aim assistance and ESP features.",
-      "features": ["Aimbot", "ESP", "Trigger Bot", "Radar Hack"],
-      "requiredLevel": 3,
-      "subscriptionName": "Valorant External"
     }
   ]
+
 } 
