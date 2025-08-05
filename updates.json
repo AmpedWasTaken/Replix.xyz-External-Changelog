@@ -91,7 +91,24 @@
       "products": ["FiveM External"],
       "tags": ["AntiAdmin", "Alerts", "Detection"],
       "priority": "low"
+    },
+    {
+      "id": "10",
+      "type": "feature",
+      "title": "Support for FiveM Build 3323",
+      "description": "Added compatibility with FiveM game build 3323. Ensures loader and external features run without issues on the latest version.",
+      "date": "2025-08-04",
+      "products": [
+        "FiveM External"
+      ],
+      "tags": [
+        "Compatibility",
+        "Update",
+        "Build3323"
+      ],
+      "priority": "low"
     }
+
   ],
   "filters": [
     {
@@ -111,4 +128,5 @@
     }
   ]
 }
+
 
