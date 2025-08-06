@@ -107,7 +107,26 @@
         "Build3323"
       ],
       "priority": "low"
-    }
+    },
+{
+  "id": "11",
+  "type": "improvement",
+  "title": "Bugfixes & QoL Improvements",
+  "description": "• Fixed healthbar showing incorrect values.\n• Improved OBS streamproof functionality — cheats are now fully hidden when enabled.\n• Fixed Noclip keybind not registering properly.\n• Added optional vehicle repair feature for quick fixes.\n• Prevented cheats from being visible after ALT+F4 followed by pressing HOME.",
+  "date": "2025-08-06",
+  "products": [
+    "FiveM External"
+  ],
+  "tags": [
+    "Bugfix",
+    "Healthbar",
+    "Streamproof",
+    "Noclip",
+    "Repair",
+    "Security"
+  ],
+  "priority": "low"
+}
 
   ],
   "filters": [
@@ -128,5 +147,6 @@
     }
   ]
 }
+
 
 
