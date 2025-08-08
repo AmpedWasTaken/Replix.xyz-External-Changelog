@@ -7,8 +7,8 @@
       "name": "FiveM External",
       "icon": "fas fa-car",
       "status": "Undetected",
-      "version": "v3.1.5",
-      "lastUpdate": "06/08/2025",
+      "version": "v3.1.6",
+      "lastUpdate": "08/08/2025",
       "description": "Advanced external toolkit for FiveM roleplay servers featuring real-time player and vehicle tracking.",
       "features": ["ESP Overlay", "Spawn Vehicles", "Track Players", "Instant Teleportation"],
       "requiredLevel": 1,
@@ -29,4 +29,5 @@
   ]
 
 } 
+
 
