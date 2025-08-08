@@ -126,7 +126,28 @@
     "Security"
   ],
   "priority": "low"
+},
+    {
+  "id": "12",
+  "type": "feature",
+  "title": "Damage Indicators, Save Teleport Locations & Absorption",
+  "description": "Added visual indicators for damage taken, implemented the ability to save and quickly teleport to custom locations, and introduced absorption functionality to temporarily reduce incoming damage.",
+  "date": "2025-08-08",
+  "products": [
+    "FiveM External"
+  ],
+  "tags": [
+    "Combat",
+    "UI",
+    "Teleport",
+    "Utility",
+    "Defense",
+    "Buff",
+    "Quality of Life"
+  ],
+  "priority": "high"
 }
+
 
   ],
   "filters": [
@@ -147,6 +168,7 @@
     }
   ]
 }
+
 
 
 
