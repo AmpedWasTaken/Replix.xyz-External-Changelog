@@ -15,32 +15,26 @@
       "subscriptionName": "Fivem External"
     },
     {
-      "id": 2,
-      "name": "FiveM Executor",
-      "icon": "fas fa-code",
-      "status": "Detected",
-      "version": "v0.0.1",
-      "lastUpdate": "16/07/2025",
-      "description": "Advanced script executor for FiveM with Lua support and bypass protection.",
-      "features": ["Script Injection", "Lua Executor", "Bypass Protection", "Auto-Update"],
-      "requiredLevel": 2,
-      "subscriptionName": "Fivem Executor"
-    },
-    {
       "id": 3,
       "name": "Pc Check Bypass",
       "icon": "fas fa-broom",
       "status": "Undetected",
       "version": "v1.0.0",
       "lastUpdate": "13/08/2025",
-      "description": "When a pc check is required, this will bypass it.",
-      "features": ["Bypass Pc Check", "Bypass Pc Check", "Bypass Pc Check", "Bypass Pc Check"],
+      "description": "Bypass admin PC scans designed to detect cheat software, keeping your system clean and undetected.",
+      "features": [
+        "Bypass admin PC checks",
+        "Remain undetected",
+        "Lightweight and efficient",
+        "Supports common scan methods"
+      ],
       "requiredLevel": 1,
       "subscriptionName": "Fivem External"
     }
   ]
 
 } 
+
 
 
 
