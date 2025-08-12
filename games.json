@@ -25,9 +25,22 @@
       "features": ["Script Injection", "Lua Executor", "Bypass Protection", "Auto-Update"],
       "requiredLevel": 2,
       "subscriptionName": "Fivem Executor"
+    },
+    {
+      "id": 3,
+      "name": "Pc Check Bypass",
+      "icon": "fas fa-broom",
+      "status": "Undetected",
+      "version": "v1.0.0",
+      "lastUpdate": "13/08/2025",
+      "description": "When a pc check is required, this will bypass it.",
+      "features": ["Bypass Pc Check", "Bypass Pc Check", "Bypass Pc Check", "Bypass Pc Check"],
+      "requiredLevel": 1,
+      "subscriptionName": "Fivem External"
     }
   ]
 
 } 
+
 
 
