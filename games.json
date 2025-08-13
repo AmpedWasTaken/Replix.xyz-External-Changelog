@@ -28,12 +28,13 @@
         "Lightweight and efficient",
         "Supports common scan methods"
       ],
-      "requiredLevel": 0,
-      "subscriptionName": "default"
+      "requiredLevel": 1,
+      "subscriptionName": "PC Check Bypass"
     }
   ]
 
 } 
+
 
 
 
