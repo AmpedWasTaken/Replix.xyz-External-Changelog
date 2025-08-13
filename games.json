@@ -15,25 +15,21 @@
       "subscriptionName": "Fivem External"
     },
     {
-      "id": 3,
-      "name": "PC Check Bypass",
-      "icon": "fas fa-broom",
-      "status": "Undetected",
-      "version": "v1.0.0",
-      "lastUpdate": "13/08/2025",
-      "description": "Bypass admin PC scans designed to detect cheat software, keeping your system clean and undetected.",
-      "features": [
-        "Bypass admin PC checks",
-        "Remain undetected",
-        "Lightweight and efficient",
-        "Supports common scan methods"
-      ],
-      "requiredLevel": 1,
-      "subscriptionName": "PC Check Bypass"
+      id: 3,
+      name: 'PC Check Bypass',
+      icon: 'fas fa-shield-alt',
+      status: 'Undetected',
+      version: 'v1.0.0',
+      lastUpdate: '16/07/2025',
+      description: 'Bypass for PC games with advanced protection and auto-update system.',
+      features: ['Bypass Protection', 'Auto-Update'],
+      requiredLevel: 0, // Basic subscription
+      subscriptionName: 'PC Check Bypass'
     }
   ]
 
 } 
+
 
 
 
