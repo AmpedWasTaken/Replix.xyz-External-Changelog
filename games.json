@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "name": "Pc Check Bypass",
+      "name": "PC Check Bypass",
       "icon": "fas fa-broom",
       "status": "Undetected",
       "version": "v1.0.0",
@@ -34,6 +34,7 @@
   ]
 
 } 
+
 
 
 
