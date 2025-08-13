@@ -28,20 +28,8 @@
         "Lightweight and efficient",
         "Supports common scan methods"
       ],
-      "requiredLevel": 0,
-      "subscriptionName": "PC Check Bypass"
+      "requiredLevel": 1,  
+      "subscriptionName": "Fivem External"
     }
   ]
-
-} 
-
-
-
-
-
-
-
-
-
-
-
+}
